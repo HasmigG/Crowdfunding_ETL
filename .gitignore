@@ -158,3 +158,55 @@ cython_debug/
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
+
+../../../../../.CFUserTextEncoding
+	../../../../../.DS_Store
+	../../../../../.RData
+	../../../../../.Rapp.history
+	../../../../../.Rhistory
+	../../../../../.anaconda/
+	../../../../../.bash_history
+	../../../../../.bash_profile
+	../../../../../.bash_sessions/
+	../../../../../.cache/
+	../../../../../.conda/
+	../../../../../.condarc
+	../../../../../.config/
+	../../../../../.continuum/
+	../../../../../.cricut-design-space/
+	../../../../../.cups/
+	
+	../../../../../.idlerc/
+	../../../../../.ipynb_checkpoints/
+	../../../../../.ipython/
+	../../../../../.jupyter/
+	../../../../../.lesshst
+	../../../../../.local/
+	../../../../../.matplotlib/
+	../../../../../.mongodb/
+	../../../../../.npm/
+	../../../../../.packettracer
+	../../../../../.pgadmin/
+	../../../../../.sqldeveloper/
+	../../../../../.ssh/
+	../../../../../.tcshrc
+	../../../../../.viminfo
+	../../../../../.vscode/
+	../../../../../.xonshrc
+	../../../../../.zshrc
+	../../../../../API-Challenge/
+	../../../../../Applications/
+	../../../../../Desktop/
+	../../../../
+	../../../../../Downloads/
+	../../../../../Google Drive/
+	../../../../../Library/
+	../../../../../Movies/
+	../../../../../Music/
+	../../../../../Pictures/
+	../../../../../Public/
+	../../../../../Untitled.ipynb
+	../../../../../Untitled1.ipynb
+	../../../../../anaconda3/
+	../../../../../mlenorerichardson@gmail.com Creative Cloud Files/
+	../../../../../untitled.txt
